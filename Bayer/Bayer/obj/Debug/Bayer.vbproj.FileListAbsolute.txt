@@ -1,0 +1,10 @@
+C:\MobileApps\Projects\Bayer\Bayer\bin\Debug\Bayer.exe.config
+C:\MobileApps\Projects\Bayer\Bayer\obj\Debug\Bayer.vbprojResolveAssemblyReference.cache
+C:\MobileApps\Projects\Bayer\Bayer\obj\Debug\Bayer.Resources.resources
+C:\MobileApps\Projects\Bayer\Bayer\obj\Debug\Bayer.vbproj.GenerateResource.Cache
+C:\MobileApps\Projects\Bayer\Bayer\bin\Debug\Bayer.exe
+C:\MobileApps\Projects\Bayer\Bayer\bin\Debug\Bayer.pdb
+C:\MobileApps\Projects\Bayer\Bayer\bin\Debug\Bayer.xml
+C:\MobileApps\Projects\Bayer\Bayer\obj\Debug\Bayer.exe
+C:\MobileApps\Projects\Bayer\Bayer\obj\Debug\Bayer.xml
+C:\MobileApps\Projects\Bayer\Bayer\obj\Debug\Bayer.pdb
